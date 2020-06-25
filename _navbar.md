@@ -1,2 +1,2 @@
 * Contact IT
-  * [Email](mailto:helpdesk@autismqld.com.au)
+  * [Email ✉️](mailto:helpdesk@autismqld.com.au)
