@@ -1,7 +1,15 @@
+### Setting up OneDrive
+
+When saving iPad backups, you'll need to put them in OneDrive. Most people will already have their OneDrive setup on their PC, but if not, please contact IT and we will help you set it up.
+
 ## Proloquo2Go
 #### Preparing a Backup:
 1. Tap the Options icon in the bottom toolbar.
-2. Go to Backup > Export Backup.
+![Diagram](_media/tutorial/prolo/home.png)
+2. Scroll down and tap Backup.
+![Diagram](_media/tutorial/prolo/backup.png)
+3. Select Export Backups
+![Diagram](_media/tutorial/prolo/export.png)
 3. Find the file you want to export in the list. You may need to scroll down. When you find the file, tap Export on the right side of its row.
 4. In the menu that pops up, select Export to iTunes.
 5. Wait until you see a “Successfully Exported to iTunes” message, then tap OK.
@@ -12,8 +20,8 @@
 ![Diagram](_media/tutorial/lamp/itunes1.jpeg)
 3. In the window that opens on the right, click on the Apps menu at the top.
 4. Scroll down to the section called File Sharing and in the Apps column, select the Proloquo2Go app.
-5. You will see a list of files. Backup files end in the extension .p2gbk. Select the file you want to save, then click Save to…
-6. You can rename the file, but make sure to keep the .p2gbk extension. Choose where you want to save the file, then click Save.
+5. You will see a list of files. Backup files end in the extension .p2gbk. Select the file you want to save, then click Save to
+6. Select your OneDrive from the window that appears and click Save.
 
 ## LAMP Words for Life
 #### Preparing a Backup:
@@ -39,8 +47,10 @@
 ## Snap + Core First
 #### Preparing a Backup:
 1. In the Editor, select the User editing panel tab.
+![Diagram](_media/tutorial/snap/1.jpeg)
 2. Select the current User to access the management options.
 3. Select the save icon for the user you want to save as a backup.
+![Diagram](_media/tutorial/snap/2.jpeg)
 4. Rename your backup if you like, then select Backup.
 
 #### Saving a Backup:

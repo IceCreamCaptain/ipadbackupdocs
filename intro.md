@@ -32,19 +32,27 @@ Click `Launch` to open iTunes
 
 ![Launch iTunes](_media/launch.png 'Launch iTunes')
 
-iTunes will then launch with the following window:
+iTunes will then launch with the following window, click Agree.
 
-**get pic of itunes launching**
+![Diagram](_media/agreement.png)
+
+Once this window appears, click Agree again.
+
+![Diagram](_media/ituneslaunch.png)
 
 !> If you have any troubles with these steps or iTunes fails to open, please call (07 3273 0040) or [email](mailto:helpdesk@autismqld.com.au) the Helpdesk.
 
 ## Connecting your iPad
 
-To backup your app data to your PC, you'll need to connect your iPad to your PC using a Lightning cable (pictured below).
+To backup your app data to your PC, you'll need to connect your iPad to your PC using a Lightning cable (pictured below.
 
  ![Diagram](_media/connect.png 'Connect Cable')
 
-When you connect your iPad you'll see the following messages:
+First, open iTunes if it is not already open.
+
+ ![Diagram](_media/openitunes.png)
+
+Connect your iPad to your PC. You'll then see the following messages appear on your iPad:
 
 Tap `Allow`.
 
@@ -62,12 +70,12 @@ When you see this message appear in iTunes, click `Continue`.
 
 ![Diagram](_media/itunesallow.png 'Connect Cable')
 
-You'll then see this window. Click `Continue`.
+Click the iPad icon once it appears.
 
-![Diagram](_media/newitunes.png 'Connect Cable')
+![Diagram](_media/ipadappear.png)
 
-Click `Get Started`.
+From here you can access File Sharing, which is where you save app backups.
 
-![Diagram](_media/itunescontinue.png 'Connect Cable')
+![Diagram](_media/filesharing.png)
 
 >Once you've completed these steps, you're ready to backup the apps on your iPad. Click [here](backup) to get started.
