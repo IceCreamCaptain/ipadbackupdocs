@@ -9,7 +9,7 @@
 #### Saving a Backup:
 1. Connect your iPad to your computer using the iPad’s charging cable.
 2. Click the iPad’s icon in the upper left corner of the iTunes window.
-
+![Diagram](_media/tutorial/lamp/itunes1.jpeg)
 3. In the window that opens on the right, click on the Apps menu at the top.
 4. Scroll down to the section called File Sharing and in the Apps column, select the Proloquo2Go app.
 5. You will see a list of files. Backup files end in the extension .p2gbk. Select the file you want to save, then click Save to…
@@ -46,6 +46,7 @@
 #### Saving a Backup:
 1. Connect your iPad to your computer using the iPad’s charging cable.
 2. Click the iPad’s icon in the upper left corner of the iTunes window.
+![Diagram](_media/tutorial/lamp/itunes1.jpeg)
 3. In the window that opens on the right, click on the Apps menu at the top.
 4. Scroll down to the section called File Sharing and in the Apps column, select the Snap + Core First app.
 5. Select UserBackups in the Documents browser.
