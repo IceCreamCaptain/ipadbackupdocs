@@ -78,4 +78,4 @@ From here you can access File Sharing, which is where you save app backups.
 
 ![Diagram](_media/filesharing.png)
 
->Once you've completed these steps, you're ready to backup the apps on your iPad. Click [here](backup) to get started.
+>Once you've completed these steps, you're ready to backup the apps on your iPad. Click [here](backup?id=proloquo2go) to get started.
