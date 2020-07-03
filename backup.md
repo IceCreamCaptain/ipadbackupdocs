@@ -6,15 +6,15 @@ When saving iPad backups, you'll need to put them in OneDrive. Most people will 
 #### Preparing a Backup:
 
 1. Tap the Options icon in the bottom toolbar.
-![Diagram](_media/tutorial/prolo/home.png)
+![Diagram](_media/tutorial/prolo/home1.png)
 2. Scroll down and tap Backup.
-![Diagram](_media/tutorial/prolo/backup.png)
+![Diagram](_media/tutorial/prolo/backup1.png)
 3. Select Export Backups.
-![Diagram](_media/tutorial/prolo/export.png)
+![Diagram](_media/tutorial/prolo/export1.png)
 4. Tap the file you want to export in the list. You may need to scroll down to find the file you want.
-![Diagram](_media/tutorial/prolo/backuplist.png)
+![Diagram](_media/tutorial/prolo/backuplist1.png)
 5. In the menu that appears, tap Export to iTunes.
-![Diagram](_media/tutorial/prolo/exporttoitunes.png)
+![Diagram](_media/tutorial/prolo/exporttoitunes1.png)
 6. Wait until you see a “Successfully Exported to iTunes” message, then tap OK.
 
 #### Saving a Backup:
