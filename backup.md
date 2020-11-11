@@ -1,4 +1,4 @@
-### Setting up OneDrive
+## Setting up OneDrive
 
 When saving iPad backups, you'll need to put them in OneDrive. Most people will already have their OneDrive setup on their PC, but if not, please contact IT and we will help you set it up.
 
